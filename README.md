@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F96E9&footer&text=Anuzik's%20GitHub&fontColor=999999&fontAlign=60&height=200&fontAlignY=40&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F96E9&footer&text=Anuzik's%20GitHub&fontColor=999999&fontAlign=65&height=200&fontAlignY=40&section=header" />
 
 
 ## 🛠 Tech Stack
