@@ -14,8 +14,9 @@
 
 
 ## 🚀 Last Project
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f621c1de-4943-43b9-9f9e-829c8e04e3cd" />
-![Image](https://github.com/user-attachments/assets/a0afe95e-5e83-48b0-80a7-434a53e351e0)
+<img width="945" height="530" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
+
+![Image](https://github.com/user-attachments/assets/05ed45f8-5800-46f9-b5e2-d99ef3092bf7)
 
 개발 인원 : 기획 1인 / 개발 4인 
 
