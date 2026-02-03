@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F96E9&footer&text=Introduce&fontColor=999999&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F96E9&footer&text=Introduce&fontColor=999999&height=200&section=header" />
 
 
 ## 🛠 Tech Stack
