@@ -21,7 +21,7 @@ Unity와 C# 을 집중적으로 공부해 유니티 게임제작을 집중적으
 
 
 ## 🚀 Last Project
-<img width="945" height="530" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
 
 ![Image](https://github.com/user-attachments/assets/05ed45f8-5800-46f9-b5e2-d99ef3092bf7)
 
@@ -41,6 +41,7 @@ Unity와 C# 을 집중적으로 공부해 유니티 게임제작을 집중적으
 Role: 시스템 아키텍쳐 / UI / 상세보기 및 QTE 기능 담당
 
 Key Achievements:
+
 Architecture: Eventbus 패턴을 사용해 플레이 신과 분리해 별도의 UI신 작업환경 구축 및 게임플로우 전반적인 흐름에 사용
 Cinemachine : 시네머신을 사용한 상세보기 / QTE 카메라 연출 구현
 Dialogue & SO : CSV 베이커를 활용해 다양한 NPC와의 대화 처리 및 SO를 통해 상세보기/QTE/대화 등 다양한 데이터 보관 처리
