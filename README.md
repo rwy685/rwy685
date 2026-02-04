@@ -21,7 +21,7 @@ Unity와 C# 을 집중적으로 공부해 유니티 게임제작을 집중적으
 
 
 ## 🚀 Last Project
-<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
 
 ![Image](https://github.com/user-attachments/assets/05ed45f8-5800-46f9-b5e2-d99ef3092bf7)
 
