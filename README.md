@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F96E9&footer&text=Anuzik's%20GitHub&fontColor=000000&fontAlign=65&height=200&fontAlignY=40&reversal=true&section=header" />
-
 
 
 🔎 Game Programmer : Ryou Won Young
