@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6F96E9&footer&text=Anuzik's%20GitHub&fontColor=000000&fontAlign=65&height=200&fontAlignY=40&reversal=true&section=header" />
 
 
+
 🔎 Game Programmer : Ryou Won Young
 
 “클라이언트 개발을 통해 사용자 경험과 시스템 구조를 함께 이해하며, 팀에 더 큰 가치를 줄 수 있는 개발자로 성장하고자 합니다.”
