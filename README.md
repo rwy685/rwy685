@@ -21,7 +21,7 @@ Unity와 C# 을 집중적으로 공부해 유니티 게임제작을 집중적으
 
 
 ## 🚀 Last Project
-<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
+<img width="426" height="300" alt="Image" src="https://github.com/user-attachments/assets/04cfc760-5533-4fbd-954b-4bd7ce72fa92" />
 
 ![Image](https://github.com/user-attachments/assets/05ed45f8-5800-46f9-b5e2-d99ef3092bf7)
 
@@ -44,5 +44,5 @@ Unity와 C# 을 집중적으로 공부해 유니티 게임제작을 집중적으
 
 🔸Architecture: Eventbus 패턴을 사용해 플레이 신과 분리해 별도의 UI신 작업환경 구축 및 게임플로우 전반적인 흐름에 사용<br/>
 🔸Cinemachine : 시네머신을 사용한 상세보기 / QTE 카메라 연출 구현<br/>
-🔸Dialogue & SO : CSV 베이커를 활용해 다양한 NPC와의 대화 처리 및 SO를 통해 상세보기/QTE/대화 등 다양한 데이터 보관 처리<br/>
-
+🔸Dialogue: CSV 베이커를 활용해 SO 형태로 데이터를 보관 및 다양한 NPC와의 대화 처리<br/>
+🔸SO: ScriptableObject를 활용한 데이터 중심 QTE 종류 및 상세보기 오브젝트 상태 관리
